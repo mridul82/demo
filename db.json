@@ -1,6 +1,5 @@
-{
-	"events":[
-	{
+ [
+    {
           
           "id": 1,
           "title": "accusamus beatae ad facilis cum similique qui sunt",
@@ -39,8 +38,5 @@
           "url": "https://via.placeholder.com/600/f66b97",
           "thumbnailUrl": "https://via.placeholder.com/150/f66b97",
           "description" : "reprehenderit est deserunt velit ipsam reprehenderit est deserunt velit ipsam"
-        },
-        
-
-]
-}
+        }
+  ]
